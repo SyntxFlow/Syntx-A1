@@ -1,3 +1,6 @@
-[submodule "whisper/vendor/whisper"]
-	path = whisper/vendor/whisper
+[submodule "whisper/libraries/libsamplerate"]
+	path = whisper/libraries/libsamplerate
+	url = https://github.com/libsndfile/libsamplerate.git
+[submodule "whisper/libraries/whisper"]
+	path = whisper/libraries/whisper
 	url = https://github.com/ggml-org/whisper.cpp.git
